@@ -2,7 +2,7 @@
 
 Tela de login feita com **HTML e CSS puros**, com uma paisagem de fundo e um card com efeito de vidro fosco (*glassmorphism*).
 
-![Prévia da tela de login](preview.png)
+![Prévia da tela de login](preview1].png)
 
 ## ✨ Funcionalidades
 
